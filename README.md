@@ -1,4 +1,4 @@
-# Dart Algorithms: Grokking Algorithms Implementation From Python To Dart
+# Grokking Algorithms Implementation From Python To Dart
 
 ## Learning Journey
 After reading "Grokking Algorithms" by Aditya Bhargava, I embarked on a practical coding journey to implement key algorithmic concepts using Dart.
